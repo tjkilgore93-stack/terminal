@@ -1,8 +1,8 @@
 aaaaabbb
+ABANDONFONT
 abbcc
 abcc
 abgr
-ABANDONFONT
 ABORTIFHUNG
 ACCESSTOKEN
 acidev
@@ -86,6 +86,7 @@ backstory
 Bazz
 bbccb
 bbwe
+bcde
 bcount
 bcx
 bcz
@@ -166,7 +167,9 @@ changelist
 CHARSETINFO
 chshdng
 CHT
+CInput
 CLASSSTRING
+CLAUDE
 cleartype
 CLICKACTIVE
 clickdown
@@ -246,10 +249,12 @@ consrv
 consteval
 constexprable
 contentfiles
+contentproperty
 conterm
 contsf
 contypes
 conwinuserrefs
+cooldown
 COPYCOLOR
 COPYDATA
 COPYDATASTRUCT
@@ -665,6 +670,7 @@ GHIJK
 GHIJKL
 gitcheckin
 gitfilters
+gksks
 gle
 GLOBALFOCUS
 GLYPHENTRY
@@ -1079,7 +1085,6 @@ NOCONTEXTHELP
 NOCOPYBITS
 nodiscard
 NODUP
-NODEFAULT
 noexcepts
 NOFONT
 NOHIDDENTEXT
@@ -1111,7 +1116,6 @@ NOSNAPSHOT
 NOTELLSHELL
 NOTHOUSANDS
 NOTICKS
-notif
 NOTIMEOUTIFNOTHUNG
 NOTIMPL
 NOTOPMOST
@@ -1568,7 +1572,6 @@ SMARTQUOTE
 SMTO
 snapcx
 snapcy
-SND
 snk
 SOLIDBOX
 Solutiondir
@@ -1604,6 +1607,7 @@ STDMETHODCALLTYPE
 STDMETHODIMP
 STGM
 stl
+storyboards
 STRINGTABLE
 STRSAFE
 STUBHEAD
@@ -1757,6 +1761,7 @@ Unittesting
 unittests
 unknwn
 UNORM
+unsend
 untextured
 UPDATEDISPLAY
 UPDOWN
@@ -1850,6 +1855,7 @@ wcs
 WCSHELPER
 wcsrev
 wcswidth
+WCT
 wddm
 wddmcon
 WDDMCONSOLECONTEXT
