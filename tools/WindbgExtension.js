@@ -8,6 +8,7 @@
 // dx @$scriptContents.ServiceLocatorVar("s_globals")
 
 
+// deno-lint-ignore no-unused-vars
 function initializeScript()
 {
     host.diagnostics.debugLog("***> OpenConsole debugger extension loaded \n");
@@ -19,6 +20,7 @@ function initializeScript()
 // - varName - the variable to display information for
 // Return Value:
 // - debugger object used to display information about varName
+// deno-lint-ignore no-unused-vars
 function ServiceLocatorVar(varName)
 {
     return host.namespace.Debugger.Utility.Control.ExecuteCommand("dx Microsoft::Console::Interactivity::ServiceLocator::" + varName);
